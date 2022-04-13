@@ -1,0 +1,8 @@
+
+1 - Criação de repositório no GitHub
+2 - Criação de Capa README
+3 - Clone de repositório em pasta local por meio de chave SSH
+4 - Criação de check-list com passos realizados.
+5 - Commitar arquivo criado
+6 - Realizar Push
+7 - Confirmar se a arvore esta limpa e o GitHub atualizado.
